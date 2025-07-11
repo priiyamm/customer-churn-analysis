@@ -1,4 +1,4 @@
-# customer-churn-analysis
+# data--analyst--portfolio
 SQL + Power BI project to clean and visualize business data
 
 Data Cleaning (SQL):
